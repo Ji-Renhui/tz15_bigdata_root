@@ -1,0 +1,3 @@
+tz15_bigdata_root\App.class
+tz15_bigdata_root\kafka\config\KafkaConfig.class
+tz15_bigdata_root\kafka\producer\StringProducer.class
